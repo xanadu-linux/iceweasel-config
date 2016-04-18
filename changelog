@@ -1,4 +1,16 @@
-commit d9a1620ce6cd2c18523b2423ad67873340ca79fa (HEAD, origin/master, origin/HEAD, master)
+commit 34cbd0269970185d845a96d5f004f30b2962805d (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 20:36:24 2016 -0430
+
+    * zenodo
+
+commit 2fae91114ab816d52195d1365f5ac825679bb529
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Apr 9 11:49:37 2016 -0430
+
+    * changelog
+
+commit d9a1620ce6cd2c18523b2423ad67873340ca79fa
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:49:22 2016 -0430
 
