@@ -1,10 +1,23 @@
-commit 34cbd0269970185d845a96d5f004f30b2962805d (HEAD, origin/master, origin/HEAD, master)
+commit 818a8b950b49cf36d17d7b6a16cf4d82ea90059b (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jun 2 21:06:01 2016 -0400
+
+    * se eliminan marcadores a web que ya no existen
+    * se agregan marcadores a buscadores seguros
+
+commit 6738ee104eceea7be067099b6f899267cf0d6e01
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 20:36:34 2016 -0430
+
+    * changelog
+
+commit 34cbd0269970185d845a96d5f004f30b2962805d
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Apr 17 20:36:24 2016 -0430
 
     * zenodo
 
-commit 2fae91114ab816d52195d1365f5ac825679bb529
+commit 2fae91114ab816d52195d1365f5ac825679bb529 (tag: v0.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:49:37 2016 -0430
 
