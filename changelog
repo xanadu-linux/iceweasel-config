@@ -1,4 +1,16 @@
-commit 818a8b950b49cf36d17d7b6a16cf4d82ea90059b (HEAD, origin/master, origin/HEAD, master)
+commit 2afe5613699796ee1cf22b094e4b423e8fac5721 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jun 13 19:44:37 2016 -0400
+
+    * se agrega la wiki
+
+commit 628b43ef43bcdf57f965a1592b7cd3223ba1bf57
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jun 2 21:07:00 2016 -0400
+
+    * changelog
+
+commit 818a8b950b49cf36d17d7b6a16cf4d82ea90059b
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jun 2 21:06:01 2016 -0400
 
