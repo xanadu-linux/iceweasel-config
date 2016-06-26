@@ -74,3 +74,7 @@ pref("browser.urlbar.autofill", false);
 pref("browser.cache.disk_cache_ssl", false);
 pref("browser.search.openintab", true);
 pref("geo.wifi.uri", "");
+pref("browser.tabs.animate", false);
+pref("browser.preferences.animateFadeIn", false);
+pref("reader.parse-on-load.enabled", false);
+pref("reader.parse-on-load.force-enabled", false);
