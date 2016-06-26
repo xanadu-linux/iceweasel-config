@@ -1,4 +1,16 @@
-commit 4d3d1e5218d38d0b6d47ebb061049b156723b3c4 (HEAD, origin/master, origin/HEAD, master)
+commit efbf2a5f59261de868f805e8327be5be97d394ea (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:49:47 2016 -0400
+
+    * se termina de desactivar pocket
+
+commit f6c7ea1475afb24eb48d57eb0bfc305492c0df11
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:47:51 2016 -0400
+
+    * changelog
+
+commit 4d3d1e5218d38d0b6d47ebb061049b156723b3c4
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jun 26 12:47:29 2016 -0400
 
