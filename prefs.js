@@ -34,6 +34,7 @@ pref("browser.pocket.enabled", false);
 pref("browser.pocket.api", "");
 pref("browser.pocket.site", "");
 pref("browser.search.suggest.enabled", false);
+pref("browser.sessionstore.interval", 20000);
 pref("media.peerconnection.enabled", false);
 pref("plugin.state.flash", 0);
 pref("plugin.state.java", 0);
