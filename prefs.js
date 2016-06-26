@@ -33,6 +33,7 @@ pref("loop.enabled", false);
 pref("browser.pocket.enabled", false);
 pref("browser.pocket.api", "");
 pref("browser.pocket.site", "");
+pref("browser.pocket.useLocaleList", false);
 pref("browser.search.suggest.enabled", false);
 pref("browser.sessionstore.interval", 20000);
 pref("media.peerconnection.enabled", false);
