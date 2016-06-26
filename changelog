@@ -1,4 +1,16 @@
-commit 2afe5613699796ee1cf22b094e4b423e8fac5721 (HEAD, origin/master, origin/HEAD, master)
+commit 55773c0b808dff7ab72e2c1cd45fa92234498c75 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:44:54 2016 -0400
+
+    * se modifica el valor de sessionstore.interval
+
+commit e7e732ee2c7be5b747383a0b0ffab0059a03da61
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jun 13 19:44:49 2016 -0400
+
+    * changelog
+
+commit 2afe5613699796ee1cf22b094e4b423e8fac5721
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Jun 13 19:44:37 2016 -0400
 
