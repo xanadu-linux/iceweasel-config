@@ -1,4 +1,16 @@
-commit 55773c0b808dff7ab72e2c1cd45fa92234498c75 (HEAD, origin/master, origin/HEAD, master)
+commit 4d3d1e5218d38d0b6d47ebb061049b156723b3c4 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:47:29 2016 -0400
+
+    * se cambian valores para reducir el consumo de recursos
+
+commit 93bd84342eb6a94763476f8a8f8c9fa9624a7b65
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:45:37 2016 -0400
+
+    * changelog
+
+commit 55773c0b808dff7ab72e2c1cd45fa92234498c75
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jun 26 12:44:54 2016 -0400
 
