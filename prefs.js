@@ -72,17 +72,13 @@ pref("loop.enabled", false);
 pref("browser.search.hiddenOneOffs","Yahoo,Bing,Diccionario RAE,eBay,Twitter");
 pref("browser.urlbar.trimURLs", false);
 pref("browser.urlbar.autofill", false);
-pref("browser.cache.disk_cache_ssl", false);
 pref("browser.search.openintab", true);
 pref("geo.wifi.uri", "");
 pref("browser.tabs.animate", false);
 pref("browser.preferences.animateFadeIn", false);
 pref("reader.parse-on-load.enabled", false);
 pref("reader.parse-on-load.force-enabled", false);
-
 pref('browser.send_pings', false);
-pref('browser.cache.disk.enable', false);
-pref('browser.cache.disk_cache_ssl', false);
 pref('browser.cache.offline.enable', false);
 pref('browser.cache.memory.enable', false);
 pref('beacon.enabled', false);
