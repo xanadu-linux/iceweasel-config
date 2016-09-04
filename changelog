@@ -1,4 +1,31 @@
-commit efbf2a5f59261de868f805e8327be5be97d394ea (HEAD, origin/master, origin/HEAD, master)
+commit ef020326ae8af6202f88a395441441971b437bd4 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 4 12:41:27 2016 -0400
+
+    * se eliminan configuraciones problematicas y se trasladan las nuevas al perfil de tor
+
+commit 29254b6da6dc0ee9b392122606565df3516eb8a2
+Merge: bbcf1af f90c1c6
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Sun Sep 4 12:31:49 2016 -0400
+
+    Merge pull request #1 from xombra/patch-1
+    
+    Nuevos setting de anonimato y seguridad
+
+commit f90c1c6d149d921eab254efa51fa3019fea1e41e
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Fri Sep 2 11:36:51 2016 -0400
+
+    Buevos setting de anonimato y seguridad
+
+commit bbcf1af21c3d56e04fff525711b96f736101b3a3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Jun 26 12:49:58 2016 -0400
+
+    * changelog
+
+commit efbf2a5f59261de868f805e8327be5be97d394ea
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Jun 26 12:49:47 2016 -0400
 
