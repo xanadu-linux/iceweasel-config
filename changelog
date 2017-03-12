@@ -1,4 +1,16 @@
-commit ef020326ae8af6202f88a395441441971b437bd4 (HEAD, origin/master, origin/HEAD, master)
+commit 6e4ecdfbfb7182a6dd93865d843330c97e9bf7a6 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Mar 12 12:39:57 2017 -0400
+
+    * nuevas configuraciones
+
+commit 80d4ba09c1c3ca18c52e8908c4f360e9f857e8fe
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 4 12:41:53 2016 -0400
+
+    * changelog
+
+commit ef020326ae8af6202f88a395441441971b437bd4
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Sep 4 12:41:27 2016 -0400
 
