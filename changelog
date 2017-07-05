@@ -1,4 +1,16 @@
-commit 808597fbf32e0cc797e9067bddd071d8567e0d1f (HEAD, origin/master, origin/HEAD, master)
+commit ba54a179584008e8e08f739f11c569d1bfc055fb (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 5 12:10:40 2017 -0400
+
+    * se trasladan la mayoria de los marcadores a la wiki para facilitar el mantenimiento
+
+commit de773d9fd5aadb23f16d6367b739fb11413299b5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Mar 25 11:11:49 2017 -0400
+
+    * changelog
+
+commit 808597fbf32e0cc797e9067bddd071d8567e0d1f
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Mar 25 11:11:28 2017 -0400
 
